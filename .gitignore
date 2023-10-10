@@ -1,3 +1,4 @@
-git -rm --cached app_password.py test.py
+app_password.py
+test.py
 # Ignore log files
 *.log
